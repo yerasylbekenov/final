@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+.navbar{
+  padding: 5px 200px 5px 200px;
+}
+
+.nav-link{
+  font-size: 15px;
+  color: white;
+}
+
+.firstsec{
+  width: 100%;
+  height: 720px;
+  background-image: url("images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.btn{
+  font-size: 25px;
+}
+
+.music{
+
+}
+
+.textdiv{
+  padding: 50px 200px 25px 200px;
+  background-color: black;
+  opacity: 0.5;
+}
+
+#text{
+  font-size: 150%;
+  color: white;
+  font-family: 'Syne Mono';
+}
+
+.blackdiv{
+  padding: 25px 10px 30px 10px;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: black;
+  width: auto;
+  height: auto;
+  opacity: 0.8;
+}
+
+.secondsec{
+  width: 100%;
+  height: 650px;
+  background-color: black;
+}
+
+.carousel-inner img{
+  width: 100%;
+  height: 100%;
+}
+
+#demo{
+  width: 50%;
+  height: 50%;
+}
+
+#textpad{
+  font-size: 200%;
+  color: white;
+  font-family: 'Syne Mono';
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.thirdsec{
+  width: 100%;
+  height: 70%;
+  background-color: navy;
+  padding: 35px 15% 15px 15%;
+}
+
+.liveimg {
+  height: 140px;
+  width: 140px;
+  border-radius: 8px;
+}
+
+.livetext {
+  color: white;
+  font-family: 'Syne Mono';
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.fourthsec{
+  width: 100%;
+  height: 650px;
+  background-color: black;
+}
+
+/* .timer{
+  padding: 25px 250px 10px 250px;
+} */
+
+#timer{
+  font-size: 225%;
+  color: white;
+  font-family: 'Syne Mono';
+}
+
+#textalbum{
+  font-size: 250%;
+  color: white;
+  font-family: 'Syne Mono';
+}
+
+.scrip{
+  width: 100%;
+  height: 550px;
+  background-image: url("images/scrip.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
